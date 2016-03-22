@@ -29,3 +29,6 @@ A simple online book store implemented as a part of my Database Management Syste
 #### Note:
 
 The SQL database and tables need to be created manually.
+
+#### Screenshot
+![showcase1](https://github.com/dhruvjain/Portfolio/blob/master/www/img/infinitybooks.png)
